@@ -1,4 +1,4 @@
-# AZ-103 Microsoft Azure Administrator
+# (Closed) AZ-103 Microsoft Azure Administrator
 
 > **AZ-104 has been released. We will continue to monitor this repository in the short term, but please consider moving over to the new labs as soon as possible.**
 
